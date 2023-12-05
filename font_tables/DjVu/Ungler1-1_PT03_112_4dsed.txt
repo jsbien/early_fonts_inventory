@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Ungler1-1_PT03_112.djvu -f Ungler1-1_PT03_112_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Bułhak, Henryk"
+Title "Pierwsza drukarnia {F}loriana {U}nglera 1510--1516~: tablice 61--120}"
+Editor "Alodia Kawecka Gryczowa"
+Title "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Publisher "Zakład Narodowy imienia Ossolińskich — Wydawnictwo"
+Addres "Kraków  Wrocław Warszawa"
+Year "1959"
+Note "1. Pismo tekstowe gotyckie. Krój M⁹¹. Stopień 20 ww. == 76/77 mm. — Tabl. 112."
+Note1 "Character set table prepared by Maria Błońska"
+Note2 "Converted to DjVu with didjvu by Janusz S. Bień"
+URL "https://github.com/jsbien/Ungler"
+.
