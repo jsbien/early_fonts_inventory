@@ -1,0 +1,22 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Ungler2-03_PT05_241.djvu -f Ungler2-03_PT05_241_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Bułhak, Henryk"
+Title "Pierwsza drukarnia Floriana Unglera 1510-1516: tablice 61-120"
+Editor "Alodia Kawecka Gryczowa"
+Series "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Fascicule "V"
+Publisher "Zakład Narodowy imienia Ossolińskich — Wydawnictwo Polskiej Akademii Nauk"
+Sponsor "Instytut Badań Literackich Polskiej Akademii Nauk, Biblioteka Narodowa"
+Addres "Kraków  Wrocław Warszawa"
+Year "1964"
+Note "3. Pismo tekstowe, rotunda M⁴⁹, Stopień 20 ww. = 62/63 mm. — Tabl. 241."
+Note1 "Character set table prepared by Maria Błońska"
+Note2 "Scan (prepared by Biblioteka Uniwersytecka w Warszawie from their own copy) converted to DjVu with didjvu by Janusz S. Bień"
+URL "https://github.com/jsbien/Ungler"
+.
