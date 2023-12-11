@@ -1,0 +1,21 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Augezdecki-03_PT08_407.djvu -f Augezdecki-03_PT08_407_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Paulina Buchwald-Pelcowa"
+Title "Aleksander Augezdecki 1549-1561"
+Editor "Alodia Kawecka Gryczowa"
+Series "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Fascicule "VIII"
+Publisher "Zakład Narodowy imienia Ossolińskich — Wydawnictwo"
+Addres "Kraków  Wrocław Warszawa"
+Year "1972"
+Note "3. Pismo komentarzowe, szwabacha M⁸¹ + M⁸⁷. Stopień 20 ww. = 67 mm (garmond). — Tabl. 407."
+Note1 "Character set table prepared by Maria Błońska"
+Note2 "Scan (prepared by Biblioteka Uniwersytecka w Warszawie from their own copy) converted to DjVu with didjvu by Janusz S. Bień"
+URL "https://github.com/jsbien/Ungler"
+.

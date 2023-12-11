@@ -1,0 +1,21 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Augezdecki-11_PT08_408.djvu -f Augezdecki-11_PT08_408_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Paulina Buchwald-Pelcowa"
+Title "Aleksander Augezdecki 1549-1561"
+Editor "Alodia Kawecka Gryczowa"
+Series "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Fascicule "VIII"
+Publisher "Zakład Narodowy imienia Ossolińskich — Wydawnictwo"
+Addres "Kraków  Wrocław Warszawa"
+Year "1972"
+Note "11. Wersaliki tytułowe, antykwa. Wysokość 4,5—5 mm:— Tabl. 408."
+Note1 "Character set table prepared by Paulina Buchwald-Pelcowa"
+Note2 "Scan (prepared by Biblioteka Uniwersytecka w Warszawie from their own copy) converted to DjVu with didjvu by Janusz S. Bień"
+URL "https://github.com/jsbien/Ungler"
+.
