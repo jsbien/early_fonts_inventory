@@ -1,0 +1,22 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Wirzbięta-10+8_PT11_563.djvu -f Wirzbięta-10+8_PT11_563_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Paulina Buchwald-Pelcowa"
+Title "Maciej i Paweł Wirzbiętowie, Kraków, 1555/7-1605. Tabele 521-570."
+Editor "Alodia Kawecka Gryczowa"
+Series "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Fascicule "XI"
+Publisher "Zakład Narodowy imienia Ossolińskich — Wydawnictwo"
+Addres "Kraków  Wrocław Warszawa"
+Year "1981"
+Note "10. Pismo tekstowe, antykwa. Stopień 20 ww. == 113/114 mm. Zob. p. 8. — Tabl. 494, 514, 522, 529, 563, 568. [563]"
+Note0 "8. Antykwa polska dorobiona do pisma 10. — Tabl. 458. Zob. p. 10."
+Note1 "Character set table prepared by Anna Śliwa"
+Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
+URL "https://github.com/jsbien/Ungler"
+.
