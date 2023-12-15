@@ -1,6 +1,6 @@
 # Edit it and store it with command:
 #   $ djvused foo.djvu -f thisfile -s
-# djvused Augezdecki-17_PT08_411.djvu -f Augezdecki-17_PT0_411_4dsed.txt -s
+# djvused Augezdecki-17_PT08_411.djvu -f Augezdecki-17_PT08_411_4dsed.txt -s
 # The following line is the djvused command
 # to set the metadana and the rest is the metadata
 # (note the point in the last line)
