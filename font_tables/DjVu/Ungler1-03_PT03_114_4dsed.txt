@@ -17,5 +17,5 @@ Year "1959"
 Note "3. Pismo tekstowe gotyckie. Krój M⁹¹. Stopień 20 ww. == 72/73 mm. — Tabl. 114."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

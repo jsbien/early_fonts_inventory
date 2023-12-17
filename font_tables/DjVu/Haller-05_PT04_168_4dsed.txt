@@ -18,5 +18,5 @@ Year "1962"
 Note "5. Pismo tekstowe. Krój M⁴⁸. Stopień 20 ww. =81/82 mm. — Tabl. 168."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

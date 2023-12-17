@@ -16,5 +16,5 @@ Addres "Kraków  Wrocław Warszawa"
 Year "1974"
 Note "4. Pismo tekstowe, szwabacha M⁸¹, Stopień 20 ww. == 88 mm. — Tabl. 457, 468—470. [469]"
 Note1 "Character set table prepared by Alodia Kawecka Gryczowa"
-Note2 "Photo (taken at  Warsaw Public Library - Central Library of the Masovian Voivodeship) converted to DjVu with didjvu by Janusz S. BiURL "https://github.com/jsbien/Ungler"
+Note2 "Photo (taken at  Warsaw Public Library - Central Library of the Masovian Voivodeship) converted to DjVu with didjvu by Janusz S. BiURL "https://github.com/jsbien/early_fonts_inventory/"
 .

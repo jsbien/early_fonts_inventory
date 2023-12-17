@@ -18,5 +18,5 @@ Year "1964"
 Note "2. Pismo tekstowe, antykwa Q/u (zbliżone do F⁵). Stopień 20 ww. =92— 94 mm. — Tabl. 240."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (prepared by Biblioteka Uniwersytecka w Warszawie from their own copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

@@ -17,5 +17,5 @@ Year "1959"
 Note "10. Pismo tekstowe antykwowe. Krój Qu/ pośredni między G i K⁵. Stopień 20 ww. == 95/96 mm. — Tabl. 119."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

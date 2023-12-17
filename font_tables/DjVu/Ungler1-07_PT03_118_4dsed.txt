@@ -17,5 +17,5 @@ Year "1959"
 Note "7. Pismo nagłówkowe i tekstowe gotyckie. Krój M¹⁸ raz przekreślone. Stopień 20 ww. == 104/106 mm. — Tabl. 118."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

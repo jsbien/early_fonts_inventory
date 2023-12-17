@@ -16,5 +16,5 @@ Addres "Kraków  Wrocław Warszawa"
 Year "1974"
 Note "1. Pismo nagłówkowe, fraktura H. Schönspergera. Stopień 1 w, = 14,5 mm. — Tabl. 417, 419, 420, 457, 464, 467, 469, 471. [469]"
 Note1 "Character set table prepared by Alodia Kawecka Gryczowa"
-Note2 "Photo (taken at  Warsaw Public Library - Central Library of the Masovian Voivodeship) converted to DjVu with didjvu by Janusz S. BiURL "https://github.com/jsbien/Ungler"
+Note2 "Photo (taken at  Warsaw Public Library - Central Library of the Masovian Voivodeship) converted to DjVu with didjvu by Janusz S. BiURL "https://github.com/jsbien/early_fonts_inventory/"
 .

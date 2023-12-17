@@ -17,5 +17,5 @@ Year "1972"
 Note "3. Pismo komentarzowe, szwabacha M⁸¹ + M⁸⁷. Stopień 20 ww. = 67 mm (garmond). — Tabl. 407."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (prepared by Biblioteka Uniwersytecka w Warszawie from their own copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

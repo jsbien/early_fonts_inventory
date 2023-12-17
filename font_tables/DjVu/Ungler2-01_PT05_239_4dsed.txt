@@ -18,5 +18,5 @@ Year "1964"
 Note "1. Pismo nagłówkowe i tekstowe, rotunda M²³. Stopień 20 ww. = 132 mm. — Tabl. 239."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (prepared by Biblioteka Uniwersytecka w Warszawie from their own copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

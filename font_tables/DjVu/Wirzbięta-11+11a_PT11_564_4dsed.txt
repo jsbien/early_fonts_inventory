@@ -18,5 +18,5 @@ Note "11. Wersaliki tytułowe, antykwa. Wysokość 7 mm. — Tabl. 514, 522, 529
 Note0 "11a. Wersaliki tytułowe greckie, dorobione do p. 11. — Tabl. 564."
 Note1 "Character set table prepared by Anna Śliwa"
 Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

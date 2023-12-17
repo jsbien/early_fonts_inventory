@@ -18,5 +18,5 @@ Year "1962"
 Note "6. Pismo komentarzowe. Krój M”. Stopień 20 ww. = 82 mm (interliniowane). — Tabl. 169."
 Note1 "Character set table prepared by Maria Błońska"
 Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

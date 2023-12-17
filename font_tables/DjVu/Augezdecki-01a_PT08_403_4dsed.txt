@@ -17,5 +17,5 @@ Year "1972"
 Note "1. Pisma tekstowe, szwabacha M⁸¹. Stopień 20 ww. = 102—103 mm (tercja). — Tabl. 402—404. [403]"
 Note1 "Character set table prepared by Paulina Buchwald-Pelcowa"
 Note2 "Scan (prepared by Biblioteka Uniwersytecka w Warszawie from their own copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

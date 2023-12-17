@@ -17,5 +17,5 @@ Year "1974"
 Note "2. Pismo nagłówkowe i tekstowe, fraktura H. Schönspergera. Stopień 20 ww. = ca 160 mm. — Tabl. 420, 464, 469. [469]"
 Note1 "Character set table prepared by Alodia Kawecka Gryczowa"
 Note2 "Photo (taken at  Warsaw Public Library - Central Library of the Masovian Voivodeship) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .

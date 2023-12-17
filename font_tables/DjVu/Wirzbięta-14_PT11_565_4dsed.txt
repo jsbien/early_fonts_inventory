@@ -17,5 +17,5 @@ Year "1981"
 Note "14. Pismo tekstowe, kursywa. Stopień 20 ww. = 88/89 mm. — Tabl. 487, 493, 494, 521-523, 540, 561, 565, 568. [565]"
 Note1 "Character set table prepared by Anna Wolińska"
 Note2 "Scan (of a private copy) converted to DjVu with didjvu by Janusz S. Bień"
-URL "https://github.com/jsbien/Ungler"
+URL "https://github.com/jsbien/early_fonts_inventory/"
 .
