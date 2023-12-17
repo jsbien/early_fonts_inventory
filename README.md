@@ -1,6 +1,5 @@
-The repository will contain various resources related to
-Ungler's printing houses (Cracow 1510–1516, 1521-1536) and some other
-printing houses.
+The repository contains various resources related to Ungler's printing
+houses (Cracow 1510–1516, 1521-1536) and some other printing houses.
 
 To view the DjVu files you need of coirse a DjVu viewer, I recommend
 the original one: https://djvu.sourceforge.net/djview4.html
