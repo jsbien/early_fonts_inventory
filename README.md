@@ -1,6 +1,9 @@
 The repository contains various resources related to Ungler's printing
 houses (Cracow 1510–1516, 1521-1536) and some other printing houses.
 
+Some resources can be subject to different licence than the default
+CC0, it is always stated explicitely.
+
 To view the DjVu files you need of course a DjVu viewer, I recommend
 the original one: https://djvu.sourceforge.net/djview4.html
 
