@@ -1,0 +1,19 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1531_Modus_legendi_abbreviaturas.djvu -f 1531_Modus_legendi_abbreviaturas_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Title "Preclarus et insignis tractatus docens modum legendi abbreviaturas utriusq[ue] censure, studiosis tirunculis valde necessarius, ac a mendis purgatus et emendatus"
+Publisher "[Florian Ungler]"
+Addres " [Kraków]"
+Year "1531"
+Source " Biblioteka Śląska, Katowice, ŚIBZZ 227827 I"
+URL "https://www.sbc.org.pl/dlibra/publication/11884"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 14, 15$a-b$, 16. — Rubryki iota, kappa.  — Cyfry  11. — 26, 34. — Drzeworyty 288, 801, 802. [PT VII]"
+Note2 "76. MODUS legendi abbreviaturas. 8⁰. K. 56. —— XXXI 271. Wierzb. 782. [PT VII]"
+Note3 "DjVu reconverted to layer separated DjVu with ddjvu and didjvu by Janusz S. Bień"
+.
