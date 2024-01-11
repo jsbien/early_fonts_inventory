@@ -23,6 +23,3 @@ the publications listed at https://www.zotero.org/jsbien
 
 ![Polonia Typographica: a font table](aux/alfabet1.png?raw=true "A sample font table")
 
-
-
-![PolTyp12broszura1](https://github.com/jsbien/early_fonts_inventory/assets/8024702/57664478-aa62-4ff7-a5e0-0787040dce14)
