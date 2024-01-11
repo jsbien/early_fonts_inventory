@@ -19,7 +19,7 @@ https://github.com/jsbien/Rubricella (access granted on request)
 the publications listed at https://www.zotero.org/jsbien
 
 ![Polonia Typographica fasc. 1](aux/PolTyp01broszura1.png?raw=true "The cover of fascicule I")
-![Polonia Typographica fasc. 12](aux/PolTyp01broszura1.png?raw=true "The cover of fascicule XII")
+![Polonia Typographica fasc. 12](aux/PolTyp12broszura1.png?raw=true "The cover of fascicule XII")
 
 ![Polonia Typographica: a font table](aux/alfabet1.png?raw=true "A sample font table")
 
