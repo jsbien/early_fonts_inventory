@@ -1,0 +1,19 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1531_Lecura_super_titulo.djvu -f 1531_Lecura_super_titulo_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Title "Lectura super titulo De Regulis Iuris Libro Sexto"
+Publisher "Florian Ungler"
+Addres " Kraków"
+Year "1531"
+Source "Zakład Narodowy im. Ossolińskich XVI.O.505 adl."
+URL "https://dbc.wroc.pl/dlibra/publication/7721"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 14, 15$^b$, 16. - Rubryki iota, kappa. — Cyfry 10$^a$ Inicjały 3, 20, 26, 28, 33, — Drzeworyty 288, 802, 886. [PT07]"
+Note2 "78. LECTURA super titulo de regulis iuris Libro sexto. [Ed. Gregorius de Szamotuły ?]. 8\J{⁰}, K. 54, — Estr. XXI 138, XXX 196. Wierzb. 741. Piek.  Kórn. 833 (data: ok. 1534). [PT07]"
+Note3 "DjVu reconverted (with the covers and blank pages removed) to layer separated DjVu with ddjvu and didjvu by Janusz S. Bień"
+.
