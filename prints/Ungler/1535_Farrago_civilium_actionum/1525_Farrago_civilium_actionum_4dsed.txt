@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1525_Farrago_civilium_actionum.djvu -f 1525_Farrago_civilium_actionum_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Cervus Ioannes Tucholiensis"
+Title "Farrago civilium actionum ad formam Juris Maydeburgensis pro consuetudine in Regno Polo[niae][...]"
+Publisher "Florian Ungler"
+Addres " [Kraków]"
+Year "1535"
+Source "PAN Biblioteka Kórnicka Cim.O.24, Mf2563"
+URL "https://www.wbc.poznan.pl/publication/167298"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 14, 18—20. —- Rubryki epsilon, iota, lambda. — Cyfry 10$^b$+[?]13 (przemieszane), 12. — Inicjały 26, 29, 30, 35. [PT07]"
+Note2 "136. IOANNES CERVUS Tucholiensis: Farrago actionum civilium iuris Magdeburgensis. 8\J{⁰}. K. 114, — Estr. XIV 127. Wierzb. 1121. [PT07]"
+Note3 "DjVu reconverted (with the covers and blank pages removed) to layer separated DjVu with ddjvu and didjvu by Janusz S. Bień"
+.
