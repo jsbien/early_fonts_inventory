@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="http://kpbc.umk.pl/Content/269298">
+    <dc:contributor xml:lang="pl">Karnkowski, Jan (około 1472-1537). Adresat dedykacji</dc:contributor>
+    <dc:contributor xml:lang="pl">Ungler, Florian (?-1536). Drukarz</dc:contributor>
+    <dc:title xml:lang="pl">Processus iuris brevior Ioannis Andreae pro tirunculis resolutus</dc:title>
+    <dc:description xml:lang="pl">[2], 93, [1] karta, sygnowanie A-M8 : ilustracja drzeworytowa (herb) ; 8°</dc:description>
+    <dc:title xml:lang="pl">Processus Juris breuior Joa[n]nis Andr[eae] / per Gregoriu[m] Shamotulanu[m] Juris po[n]tificij doctore[m] p[ro] tyrunculis resolutus, cu[m] practica exe[m]plari in Regno Polonie circa strepitu[m] fori spu[n]alis obseruari solita, denuo iterum reuisus et auctus.</dc:title>
+    <dc:description xml:lang="pl">Dedykacja autora: "Ad Reverendissimvm ... Joanne[m] Carncotiu[m], Episcopu[m] Premislien[sem] ..."</dc:description>
+    <dc:subject xml:lang="pl">Andreae, Ioannes (około 1270-1348)</dc:subject>
+    <dc:date xml:lang="pl">(1531)</dc:date>
+    <dc:subject xml:lang="pl">Prawo kanoniczne -- dzieła przed 1800</dc:subject>
+    <dc:description xml:lang="pl">Proweniencje: 1. Archidiaconus Posnaniensis ; 2. Potocki, Szczęsny (1752-1805) ; 3. Potocki, Jarosław (1784-1838) ; 4. Potocki, Franciszek Salezy (1877-1949)</dc:description>
+    <dc:issued xml:lang="pl">(1531)</dc:issued>
+    <dc:rights xml:lang="pl">Domena publiczna (Public domain)</dc:rights>
+    <dc:description xml:lang="pl">Tytuł w drzeworytowej ramce z motywami roślinnymi. W tekście inicjały z ornamentem roślinnym</dc:description>
+    <dc:rights xml:lang="pl">http://kpbc.umk.pl/dlibra/text?id=polityka#pd Dla wszystkich bez ograniczeń</dc:rights>
+    <dc:identifier xml:lang="pl">Pol.6.II.1</dc:identifier>
+    <dc:description xml:lang="pl">Wariant A - na karcie A2 recto nagłówek: Petrvs Risinivs Lectori Candido</dc:description>
+    <dc:source xml:lang="pl">Biblioteka Uniwersytecka w Toruniu</dc:source>
+    <dc:creator xml:lang="pl">Grzegorz z Szamotuł (1485-1541)</dc:creator>
+    <dc:description xml:lang="pl">(Impressum Cracouiæ)</dc:description>
+    <dc:type xml:lang="pl">starodruk</dc:type>
+    <dc:description xml:lang="pl">Na stronie tytułowej drzeworytowy herb Zygmunta Augusta (orzeł przewiązany monogramem "SA"). Na verso karty [94] drzeworytowy sygnet Unglera w wieńcu z liści akantu i sentencja: "Si tibi fructu[m] peperit libellus Prouido grates age Floriano Hic vbi clara[m] liquidus pererrat Jstula Crocam"</dc:description>
+    <dc:language xml:lang="pl">lat</dc:language>
+    <dc:publisher xml:lang="pl">(per Flororianu[m] Vnglerium)</dc:publisher>
+  </rdf:Description>
+</rdf:RDF>
+

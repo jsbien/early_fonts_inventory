@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1531_Processus_iuris_brevior.djvu -f 1531_Processus_iuris_brevior_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Grzegorz z Szamotuł (1485-1541)"
+Title "Processus Juris breuior Joa[n]nis Andr[eae] / per Gregoriu[m] Shamotulanu[m] Juris po[n]tificij doctore[m] p[ro] tyrunculis resolutus, cu[m] practica exe[m]plari in Regno Polonie circa strepitu[m] fori spu[n]alis obseruari solita, denuo iterum reuisus et auctus.]"
+Publisher "Florian Ungler"
+Addres " Kraków"
+Year "1531"
+Source "Biblioteka Uniwersytecka w Toruniu Pol.6.II.1"
+URL "https://kpbc.umk.pl/dlibra/publication/258579"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 4, 14, 15$^a$, 16, 17. — Rubryki epsilon, delta, iota, kappa.  —— Cyfry 10$^a$[?], 11. —— Inicjały 3, 20, 26, 27, 33. — Drzeworyty 165, 250, 270, 271, 292, 801, 802. [PT07]"
+Note2 "75. GREGORIUS DE SZAMOTUŁY: Processus iuris brevior Ioannis Andreae pro tyrunculis resolutus. 8⁰. K. 96. War. A i B. — Estr. XXX 197. Wierzb. 80. [PT07]"
+Note3 " Converted to layer separated DjVu (with the covers and blank pages removed) with didjvu by Janusz S. Bień"
+.
