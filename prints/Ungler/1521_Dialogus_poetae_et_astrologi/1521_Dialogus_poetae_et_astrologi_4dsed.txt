@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1521_Dialogus_poetae_et_astrologi.djvu -f 1521_Dialogus_poetae_et_astrologi_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Lucianus Samosatensis (c. 120 – c. 190)"
+Title "Dialogus Luciani nvper e greco in latinum versvs, interloqvvtores poeta et astrologus"
+Publisher "Florian Ungler"
+Addres " Kraków"
+Year "1521"
+Source "PAN Biblioteka Kórnicka"
+URL "https://www.wbc.poznan.pl/dlibra/publication/390346"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 2, 12. — Przerywnik 1. — Inicjał 1. — Drzeworyt 1. [PT05]"
+Note2 "5. *LUCIANUS SAMOSATENSIS: Dialogus poetae et astrologi. 4⁰. K. 6. — Piek. Kórn. 875. [PT05]"
+Note3 "DjVu reconverted (without covers and blank pages) to layer separated DjVu with ddjvu and didjvu by Janusz S. Bień"
+.
