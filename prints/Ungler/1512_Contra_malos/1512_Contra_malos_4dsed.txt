@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1512_Contra_malos.djvu -f 1512_Contra_malos_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Zaborowski, Stanisław ( -1529)"
+Title "Contra malos Divites et Usurarios Tractatus"
+Publisher "Florian Ungler"
+Addres "Cracovie [Kraków]"
+Year "1512. 10. IV"
+Source "Zakład Narodowy im. Ossolińskich XVI.Qu.2697"
+URL "https://dbc.wroc.pl/dlibra/publication/16109/"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 2, 9, — Rubryka alpha. — Inicjał 13. — Drzeworyty 3. 13. [PT03]"
+Note2 "9. STANISLAUS ZABOROWSKI: Tractatus contra malos divites et usurarios. 4⁰. Dwa składy ark. A. — Estr. XV. 242; XXXIV. 55. Wierzb. 882. Piek. U. 8. [PT03]"
+Note3 "Covers and blank pages removed by Janusz S. Bień"
+.
