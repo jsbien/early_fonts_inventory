@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1510_Rubricella.djvu -f 1510_Rubricella_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Title	"Rubricella dioecesis Cracoviensis ad annum 1511"
+Publisher "Florian Ungler"
+Addres "Kraków"
+Year "1510-1511"
+Source "Biblioteka Kórnicka Cim. F.4225"
+URL "https://dbc.wroc.pl/dlibra/publication/16109/"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 1,8. — Rubryka delta. Cyfry 1. — Inicjał 16. — Drzeworyt 1$^{bis}$ [PT03]"
+Note2 "2. RUBRICELLA dioecesis Cracoviensis ad a. 1511. pl⁰ — Piek. Biul. 43. [PT03]"
+Note3	"Text extracted, split into single columns, transcribed with some help of Transcribus and converted to DjVu by Janusz S. Bień"
+Note4 "More info at https://tug.org/TUGboat/tb44-3/tb138bien-rubricella.html"
+.
