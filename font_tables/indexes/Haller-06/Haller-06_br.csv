@@ -1,8 +1,8 @@
 bstrok Haller-06 001:00034 [b];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=00152,00157,00022,00039&page=001;+ Haller-06.djvu p 1 x 152 y 157 h 22 w 39;※ 0_Haller-06_PT04_169.djvu 00036 (36) new
 drotacute Haller-06 001:00044 [5];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=00362,00157,00021,00041&page=001;+ Haller-06.djvu p 1 x 362 y 157 h 21 w 41;※ 0_Haller-06_PT04_169.djvu 00046 (46) new
-h^ Haller-06 001:00055 [l];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=00663,00151,00021,00039&page=001;+ Haller-06.djvu p 1 x 663 y 151 h 21 w 39;※ 0_Haller-06_PT04_169.djvu 00057 (57) new
-h^ Haller-06 001:00057 [];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=693,147,33,49&page=1;+# Haller-06.djvu p 1 x 696 y 167 h 37 w 22;※ 0_Haller-06_PT04_169.djvu 00059 (59) add
-.ł Haller-06 001:00065 [t];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=00836,00153,00013,00038&page=001;+ Haller-06.djvu p 1 x 836 y 153 h 13 w 38;※ 0_Haller-06_PT04_169.djvu 00067 (67) new
+hstrok Haller-06 001:00055 [l];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=00663,00151,00021,00039&page=001;hstrok+ Haller-06.djvu p 1 x 663 y 151 h 21 w 39;※ 0_Haller-06_PT04_169.djvu 00057 (57) new
+hstrok Haller-06 001:00057 [];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=693,147,33,49&page=1;hstrok+# Haller-06.djvu p 1 x 696 y 167 h 37 w 22;※ 0_Haller-06_PT04_169.djvu 00059 (59) add
+lhighstrok Haller-06 001:00065 [t];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=00836,00153,00013,00038&page=001;lhighstrok+ Haller-06.djvu p 1 x 836 y 153 h 13 w 38;※ 0_Haller-06_PT04_169.djvu 00067 (67) new
 pbardes Haller-06 001:00080 [L.];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=1142,131,32,54&page=1;+ Haller-06.djvu p 1 x 1144 y 155 h 39 w 23;※ 0_Haller-06_PT04_169.djvu 00082 (82) add
 pflour Haller-06 001:00081 [»];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=1174,136,37,44&page=1;+# Haller-06.djvu p 1 x 1182 y 141 h 24 w 36;※ 0_Haller-06_PT04_169.djvu 00083 (83) new
 qslstrok Haller-06 001:00093 [(p];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=01424,00137,00033,00040&page=001;+ Haller-06.djvu p 1 x 1424 y 137 h 33 w 40;※ 0_Haller-06_PT04_169.djvu 00095 (95) new
@@ -16,4 +16,4 @@ et Haller-06 001:00127 [T];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=00
 is Haller-06 001:00128 [];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=01029,00051,00008,00036&page=001;+ Haller-06.djvu p 1 x 1029 y 51 h 8 w 36;※ 0_Haller-06_PT04_169.djvu 00130 (130) new
 rum Haller-06 001:00129 [d];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=01053,00058,00023,00027&page=001;+ Haller-06.djvu p 1 x 1053 y 58 h 23 w 27;※ 0_Haller-06_PT04_169.djvu 00131 (131) new
 usmod Haller-06 001:00131 [»];file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=1087,43,24,61&page=1;+# Haller-06.djvu p 1 x 1093 y 90 h 22 w 11;※ 0_Haller-06_PT04_169.djvu 00133 (133) add
-conbase^;file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=959,46,27,57&page=1;;
+conbase^ Haller-06;file:../../DjVu/Haller-06.djvu?djvuopts=&highlight=959,46,27,57&page=1;;
