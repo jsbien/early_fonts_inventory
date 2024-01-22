@@ -10,8 +10,8 @@ qslstrok Haller-02 001:00100 [(p];file:../../DjVu/Haller-02.djvu?djvuopts=&highl
 qslstrok^ Haller-02 001:00101 [(p];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=1049,135,92,148&page=1;+^ Haller-02.djvu p 1 x 1049 y 148 h 85 w 107;※ 0_Haller-02_PT04_165.djvu 00103 (103) new
 q3app Haller-02 001:00103 [(D];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=01147,00150,00090,00101&page=001;+ Haller-02.djvu p 1 x 1147 y 150 h 90 w 101;※ 0_Haller-02_PT04_165.djvu 00105 (105) new
 slong+b! Haller-02 001:00113 [fb];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=01687,00174,00101,00115&page=001;+ Haller-02.djvu p 1 x 1687 y 174 h 101 w 115;※ 0_Haller-02_PT04_165.djvu 00115 (115) new
-con! Haller-02 001:00131 [a,];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=02704,00148,00072,00105&page=001;+^ Haller-02.djvu p 1 x 2704 y 148 h 72 w 105;※ 0_Haller-02_PT04_165.djvu 00133 (133) new
-con Haller-02 001:00134 [b];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=2611,130,88,144&page=1;+# Haller-02.djvu p 1 x 2622 y 148 h 14 w 22;※ 0_Haller-02_PT04_165.djvu 00136 (136) new
+conbase! Haller-02 001:00131 [a,];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=02704,00148,00072,00105&page=001;+^ Haller-02.djvu p 1 x 2704 y 148 h 72 w 105;※ 0_Haller-02_PT04_165.djvu 00133 (133) new
+conbase Haller-02 001:00134 [b];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=2611,130,88,144&page=1;+# Haller-02.djvu p 1 x 2622 y 148 h 14 w 22;※ 0_Haller-02_PT04_165.djvu 00136 (136) new
 et Haller-02 001:00135 [7];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=00040,00030,00063,00080&page=001;+ Haller-02.djvu p 1 x 40 y 30 h 63 w 80;※ 0_Haller-02_PT04_165.djvu 00137 (137) new
 rum Haller-02 001:00136 [lb];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=00117,00017,00064,00084&page=001;+ Haller-02.djvu p 1 x 117 y 17 h 64 w 84;※ 0_Haller-02_PT04_165.djvu 00138 (138) new
 us Haller-02 001:00137 [9];file:../../DjVu/Haller-02.djvu?djvuopts=&highlight=185,30,46,91&page=1;+# Haller-02.djvu p 1 x 189 y 54 h 45 w 69;※ 0_Haller-02_PT04_165.djvu 00139 (139) new
