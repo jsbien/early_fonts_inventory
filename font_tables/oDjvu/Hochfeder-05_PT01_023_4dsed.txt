@@ -1,0 +1,22 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Hochfeder-05_PT01_023.djvu -f Hochfeder-05_PT01_023_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Kazimierz Piekarski"
+Title "Kasper Hochfeder 1503-505"
+Editor "Alodia Kawecka Gryczowa"
+Series "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Fascicule "I"
+Edition "Wydanie II przejrzane i uzupełnione przez Marię Błońską"
+Publisher "Instytut Badań Literackich Polskiej Akademii Nauk — Biblioteka Narodowa"
+Addres "Warszawa"
+Year "1968"
+Note "5. Pismo tekstowe gotyckie. Krój M⁸⁸. Stopień 20 ww. = 88/89 mm - Tabl. 23 [23]"
+Note1 "Character set table prepared by Maria Błońska and Anna Wolińska"
+Note2 "Photo (taken at  Warsaw Public Library - Central Library of the Masovian Voivodeship) converted to DjVu with didjvu by Janusz S. Bień"
+URL "https://github.com/jsbien/early_fonts_inventory/"
+.
