@@ -1,0 +1,19 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Aurifaber.djvu -f Aurifaber_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Stanislaus Aurifaber"
+Title "Almanach ad a. 1511."
+Publisher "[Ungler]"
+Addres "[Kraków]"
+Year "1510/1511"
+Source "Research Library Olomouc"
+URL "http://eod.vkol.cz/60812/60812.pdf"
+Note "Pismo 1. — Rubryka alfa. — Cyfry 1. — Inicjał 26. — Drzeworyty 168—169. [PT03]"
+Note2 "1. STANISLAUS AURIFABER: Almanach ad a. 1511. 4⁰. — Estr. XIV. 439. Piek. U. 1."
+Note3 "PDF OCRed with Transkribus, converted to layer separated DjVu (with cover removed) with pdfimages and didjvu by Janusz S. Bień"
+.
