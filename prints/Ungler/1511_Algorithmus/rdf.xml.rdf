@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="http://dbc.wroc.pl/Content/3482">
+    <dc:format xml:lang="pl">image/x.djvu</dc:format>
+    <dc:publisher xml:lang="pl">Ungler, Florian ( -1536)</dc:publisher>
+    <dc:rights xml:lang="pl">Domena publiczna (Public domain)</dc:rights>
+    <dc:source xml:lang="pl">Sygnatura oryginału: XVI.Qu.2935</dc:source>
+    <dc:source xml:lang="pl">Zakład Narodowy im. Ossolińskich</dc:source>
+    <dc:description xml:lang="pl">Oprawa : płótno, XX w.</dc:description>
+    <dc:rights xml:lang="pl">Dla wszystkich bez ograniczeń</dc:rights>
+    <dc:type xml:lang="pl">stary druk</dc:type>
+    <dc:subject xml:lang="pl">algorytm liniowy - 16 w.</dc:subject>
+    <dc:description xml:lang="pl">Kraków</dc:description>
+    <dc:date xml:lang="pl">1511</dc:date>
+    <dc:title xml:lang="pl">Algorithmus Ioannis De Sacro Busto</dc:title>
+    <dc:language xml:lang="pl">lat</dc:language>
+    <dc:subject xml:lang="pl">matematyka - Polska - 16 w.</dc:subject>
+    <dc:relation xml:lang="pl">Algorithmus Ioannisde sacro Bosco</dc:relation>
+    <dc:creator xml:lang="pl">Sacro Bosco, Joannes de</dc:creator>
+  </rdf:Description>
+</rdf:RDF>
+

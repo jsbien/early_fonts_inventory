@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused 1511_Algorithmus.djvu -f 1511_Algorithmus_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Sacro Bosco, Joannes de"
+Title	"Algorithmus Ioannis De Sacro Busto"
+Publisher "Florian Ungler"
+Addres "Kraków"
+Year "1511"
+Source "Zakład Narodowy im. Ossolińskich XVI.Qu.2935"
+URL "https://dbc.wroc.pl/publication/3586"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 1, 8. — Rubryka alfa. — Cyfry 1. — Inicjały 1, 10. [PT03]"
+Note2 "3. IOANNES DE SACROBOSCO: Algorithmus. 4⁰ —  Estr. XXVII. 15. Piek. U. 2. [PT03]"
+Note3	"DjVu recreated (with covers and blank pages removed) with didjvu by Janusz S. Bień"
+.
