@@ -1,0 +1,719 @@
+jsbien@JSBbookworm:~/git/early_fonts_inventory/references$ pdf2djvu Bibliographia\ polonica\ XV\ ac\ XVI\ ss\ \ \ opera\ et\ editiones.pdf -o Wierzbowski_1889.djvu
+Bibliographia polonica XV ac XVI ss   opera et editiones.pdf:
+- page #1 -> #1
+- page #2 -> #2
+- page #3 -> #3
+- page #4 -> #4
+- page #5 -> #5
+- page #6 -> #6
+- page #7 -> #7
+- page #8 -> #8
+- page #9 -> #9
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #10 -> #10
+- page #11 -> #11
+- page #12 -> #12
+- page #13 -> #13
+- page #14 -> #14
+- page #15 -> #15
+- page #16 -> #16
+- page #17 -> #17
+- page #18 -> #18
+- page #19 -> #19
+- page #20 -> #20
+- page #21 -> #21
+- page #22 -> #22
+- page #23 -> #23
+- page #24 -> #24
+- page #25 -> #25
+- page #26 -> #26
+- page #27 -> #27
+- page #28 -> #28
+- page #29 -> #29
+- page #30 -> #30
+- page #31 -> #31
+- page #32 -> #32
+- page #33 -> #33
+- page #34 -> #34
+- page #35 -> #35
+- page #36 -> #36
+- page #37 -> #37
+- page #38 -> #38
+- page #39 -> #39
+- page #40 -> #40
+- page #41 -> #41
+- page #42 -> #42
+- page #43 -> #43
+- page #44 -> #44
+- page #45 -> #45
+- page #46 -> #46
+- page #47 -> #47
+- page #48 -> #48
+- page #49 -> #49
+- page #50 -> #50
+- page #51 -> #51
+- page #52 -> #52
+- page #53 -> #53
+- page #54 -> #54
+- page #55 -> #55
+- page #56 -> #56
+- page #57 -> #57
+- page #58 -> #58
+- page #59 -> #59
+- page #60 -> #60
+- page #61 -> #61
+- page #62 -> #62
+- page #63 -> #63
+- page #64 -> #64
+- page #65 -> #65
+- page #66 -> #66
+- page #67 -> #67
+- page #68 -> #68
+- page #69 -> #69
+- page #70 -> #70
+- page #71 -> #71
+- page #72 -> #72
+- page #73 -> #73
+- page #74 -> #74
+- page #75 -> #75
+- page #76 -> #76
+- page #77 -> #77
+- page #78 -> #78
+- page #79 -> #79
+- page #80 -> #80
+- page #81 -> #81
+- page #82 -> #82
+- page #83 -> #83
+- page #84 -> #84
+- page #85 -> #85
+- page #86 -> #86
+- page #87 -> #87
+- page #88 -> #88
+- page #89 -> #89
+- page #90 -> #90
+- page #91 -> #91
+- page #92 -> #92
+- page #93 -> #93
+- page #94 -> #94
+- page #95 -> #95
+- page #96 -> #96
+- page #97 -> #97
+- page #98 -> #98
+- page #99 -> #99
+- page #100 -> #100
+- page #101 -> #101
+- page #102 -> #102
+- page #103 -> #103
+- page #104 -> #104
+- page #105 -> #105
+- page #106 -> #106
+- page #107 -> #107
+- page #108 -> #108
+- page #109 -> #109
+- page #110 -> #110
+- page #111 -> #111
+- page #112 -> #112
+- page #113 -> #113
+- page #114 -> #114
+- page #115 -> #115
+- page #116 -> #116
+- page #117 -> #117
+- page #118 -> #118
+- page #119 -> #119
+- page #120 -> #120
+- page #121 -> #121
+- page #122 -> #122
+- page #123 -> #123
+- page #124 -> #124
+- page #125 -> #125
+- page #126 -> #126
+- page #127 -> #127
+- page #128 -> #128
+- page #129 -> #129
+- page #130 -> #130
+- page #131 -> #131
+- page #132 -> #132
+- page #133 -> #133
+- page #134 -> #134
+- page #135 -> #135
+- page #136 -> #136
+- page #137 -> #137
+- page #138 -> #138
+- page #139 -> #139
+- page #140 -> #140
+- page #141 -> #141
+- page #142 -> #142
+- page #143 -> #143
+- page #144 -> #144
+- page #145 -> #145
+- page #146 -> #146
+- page #147 -> #147
+- page #148 -> #148
+- page #149 -> #149
+- page #150 -> #150
+- page #151 -> #151
+- page #152 -> #152
+- page #153 -> #153
+- page #154 -> #154
+- page #155 -> #155
+- page #156 -> #156
+- page #157 -> #157
+- page #158 -> #158
+- page #159 -> #159
+- page #160 -> #160
+- page #161 -> #161
+- page #162 -> #162
+- page #163 -> #163
+- page #164 -> #164
+- page #165 -> #165
+- page #166 -> #166
+- page #167 -> #167
+- page #168 -> #168
+- page #169 -> #169
+- page #170 -> #170
+- page #171 -> #171
+- page #172 -> #172
+- page #173 -> #173
+- page #174 -> #174
+- page #175 -> #175
+- page #176 -> #176
+- page #177 -> #177
+- page #178 -> #178
+- page #179 -> #179
+- page #180 -> #180
+- page #181 -> #181
+- page #182 -> #182
+- page #183 -> #183
+- page #184 -> #184
+- page #185 -> #185
+- page #186 -> #186
+- page #187 -> #187
+- page #188 -> #188
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #189 -> #189
+- page #190 -> #190
+- page #191 -> #191
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #192 -> #192
+- page #193 -> #193
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #194 -> #194
+- page #195 -> #195
+- page #196 -> #196
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #197 -> #197
+- page #198 -> #198
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #199 -> #199
+- page #200 -> #200
+- page #201 -> #201
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #202 -> #202
+- page #203 -> #203
+- page #204 -> #204
+- page #205 -> #205
+- page #206 -> #206
+- page #207 -> #207
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #208 -> #208
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #209 -> #209
+- page #210 -> #210
+- page #211 -> #211
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #212 -> #212
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #213 -> #213
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #214 -> #214
+- page #215 -> #215
+- page #216 -> #216
+- page #217 -> #217
+- page #218 -> #218
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #219 -> #219
+- page #220 -> #220
+- page #221 -> #221
+- page #222 -> #222
+- page #223 -> #223
+- page #224 -> #224
+- page #225 -> #225
+- page #226 -> #226
+- page #227 -> #227
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #228 -> #228
+- page #229 -> #229
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #230 -> #230
+- page #231 -> #231
+- page #232 -> #232
+- page #233 -> #233
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #234 -> #234
+- page #235 -> #235
+- page #236 -> #236
+- page #237 -> #237
+- page #238 -> #238
+- page #239 -> #239
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #240 -> #240
+- page #241 -> #241
+- page #242 -> #242
+- page #243 -> #243
+- page #244 -> #244
+- page #245 -> #245
+- page #246 -> #246
+- page #247 -> #247
+- page #248 -> #248
+- page #249 -> #249
+- page #250 -> #250
+- page #251 -> #251
+- page #252 -> #252
+- page #253 -> #253
+- page #254 -> #254
+- page #255 -> #255
+- page #256 -> #256
+- page #257 -> #257
+- page #258 -> #258
+- page #259 -> #259
+- page #260 -> #260
+- page #261 -> #261
+- page #262 -> #262
+- page #263 -> #263
+- page #264 -> #264
+- page #265 -> #265
+- page #266 -> #266
+- page #267 -> #267
+- page #268 -> #268
+- page #269 -> #269
+- page #270 -> #270
+- page #271 -> #271
+- page #272 -> #272
+- page #273 -> #273
+- page #274 -> #274
+- page #275 -> #275
+- page #276 -> #276
+- page #277 -> #277
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #278 -> #278
+- page #279 -> #279
+- page #280 -> #280
+- page #281 -> #281
+- page #282 -> #282
+- page #283 -> #283
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+  - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+    - Warning: Unable to convert link without an action
+- page #284 -> #284
+- page #285 -> #285
+- page #286 -> #286
+- page #287 -> #287
+- page #288 -> #288
+- page #289 -> #289
+- page #290 -> #290
+- page #291 -> #291
+- page #292 -> #292
+- page #293 -> #293
+- page #294 -> #294
+- page #295 -> #295
+- page #296 -> #296
+- page #297 -> #297
+0.118 bits/pixel; 5.703:1, 82.46% saved, 174546633 bytes in, 30606877 bytes out
+jsbien@JSBbookworm:~/git/early_fonts_inventory/references$ 

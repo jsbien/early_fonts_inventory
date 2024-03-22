@@ -1,0 +1,18 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Wierzbowski_1889.djvu -f Wierzbowski_1889_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Theodorus Wierzbowski"
+Title "Bibliographia Polonica XV ac XVII ss. quae in bibliotheca Universitatis Caesareare Varsoviensis asservantur"
+Addres "Varsoviae"
+Year "1889"
+Source "The National Library of Poland 859.880 A"
+URL "https://kpbc.umk.pl/dlibra/publication/258579"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "OCR: Abby Recognition Server"
+Note1 " Converted from PDF to DjVu  with didjvu by Janusz S. Bień"
+.
