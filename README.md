@@ -24,11 +24,6 @@ the publications listed at https://www.zotero.org/jsbien.
 
 See also:
 
-Andrzej Tomaszewski  A work done for a historical edition for the Polish National Library
+[Andrzej Tomaszewski  A work done for a historical edition for the Polish National Library](https://www.gust.org.pl/bachotex/2019-en/program):
 
-Abstract
-
-A prezentation given during LETTRA 2018 at the Jagiellonian Library in Krakow.
-
-https://www.gust.org.pl/bachotex/2019-en/program
-https://www.gust.org.pl/bachotex/2019-pl/presentations/atomaszewski-2-2019.pdf
+[A prezentation given during LETTRA 2018 at the Jagiellonian Library in Krakow](https://www.gust.org.pl/bachotex/2019-pl/presentations/atomaszewski-2-2019.pdf)
