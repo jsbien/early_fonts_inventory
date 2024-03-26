@@ -10,15 +10,25 @@ the original one: https://djvu.sourceforge.net/djview4.html
 To browse the index file you need the djview4poliqarp program:
 https://github.com/jsbien/djview-poliqarp_fork.
 
-Cf. also
+See also
 
 https://github.com/jsbien/repertuarXVI (access granted on request)
 
 https://github.com/jsbien/Rubricella (access granted on request)
 
-the publications listed at https://www.zotero.org/jsbien
+the publications listed at https://www.zotero.org/jsbien.
 
 ![Polonia Typographica](aux/PolTyp.png?raw=true "The covers of the first and last fascicules")
 
 ![Polonia Typographica: a font table](aux/alfabet1.png?raw=true "A sample font table")
 
+See also:
+
+Andrzej Tomaszewski  A work done for a historical edition for the Polish National Library
+
+Abstract
+
+A prezentation given during LETTRA 2018 at the Jagiellonian Library in Krakow.
+
+https://www.gust.org.pl/bachotex/2019-en/program
+https://www.gust.org.pl/bachotex/2019-pl/presentations/atomaszewski-2-2019.pdf
