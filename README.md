@@ -30,3 +30,6 @@ Library*](https://www.gust.org.pl/bachotex/2019-en/program).  A
 presentation given during LETTRA 2018 at the Jagiellonian Library in
 Kraków, and at [BachoTex
 2019](https://www.gust.org.pl/bachotex/2019-pl/presentations/atomaszewski-2-2019.pdf).
+
+Last but not least, have a look at an interesting tool:
+https://github.com/rmast/revealshapes
