@@ -1,4 +1,4 @@
-jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/oDjvu$ ddjvu -format=tiff mode=mask Augezdecki-01_PT08_402.djvu Augezdecki-01_PT08_402_mask.tiff
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/oDjvu$ ddjvu --help
 DDJVU --- DjVuLibre-3.5.28
 DjVu decompression utility
 
@@ -25,4 +25,5 @@ If <outputfile> is a single dash or omitted, the decompressed image
 is sent to the standard output.  If <djvufile> is a single dash or
 omitted, the djvu file is read from the standard input.
 
-jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/oDjvu$ ddjvu -format=tiff -mode=mask Augezdecki-01_PT08_402.djvu Augezdecki-01_PT08_402_mask.tiff
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/oDjvu$ ddjvu -format=pbm -mode=mask Hochfeder-02_PT01_020bis.djvu Hochfeder-02_PT01_020bis_mask.pbm
+
