@@ -1,0 +1,2 @@
+convert +append Hochfeder-02_PT01_020bis_mask_line_001_box_012.png Hochfeder-02_PT01_020bis_mask_line_001_box_013.png Hochfeder-02_PT01_020bis_mask_line_001_box_012-1.png
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/letterboxes/Hochfeder-02_PT01_020bis/edited$ convert +append Hochfeder-02_PT01_020bis_mask_line_002_box_029.png Hochfeder-02_PT01_020bis_mask_line_002_box_030.png Hochfeder-02_PT01_020bis_mask_line_001_box_029-1.png
