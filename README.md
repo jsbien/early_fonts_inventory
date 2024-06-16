@@ -35,5 +35,5 @@ https://github.com/rmast/revealshapes.
 
 ![Polonia Typographica](aux/PolTypN.png?raw=true "The covers of the first and last fascicules")
 
-![Polonia Typographica: a font table](aux/brevigraphs.png.png?raw=true "A sample index")
+![Polonia Typographica: a sample index](aux/brevigraphs.png?raw=true "A sample index")
 
