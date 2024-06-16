@@ -33,7 +33,7 @@ Last but not least, have a look at an interesting tool:
 https://github.com/rmast/revealshapes.
 
 
-![Polonia Typographica](aux/PolTyp.png?raw=true "The covers of the first and last fascicules")
+![Polonia Typographica](aux/PolTypN.png?raw=true "The covers of the first and last fascicules")
 
-![Polonia Typographica: a font table](aux/alfabet1.png?raw=true "A sample font table")
+![Polonia Typographica: a font table](aux/brevigraphs.png.png?raw=true "A sample index")
 
