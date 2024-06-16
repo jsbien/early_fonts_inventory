@@ -16,6 +16,8 @@ https://github.com/jsbien/repertuarXVI (access granted on request)
 
 https://github.com/jsbien/Rubricella (access granted on request)
 
+https://github.com/jsbien/unicode4polish (requires updates and corrections)
+
 the publications listed at https://www.zotero.org/jsbien.
 
 ![Polonia Typographica](aux/PolTyp.png?raw=true "The covers of the first and last fascicules")
