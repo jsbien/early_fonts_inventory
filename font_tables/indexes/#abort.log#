@@ -1,0 +1,356 @@
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/indexes/Hochfeder-07$ grep "+" Hochfeder-07_tmp.csv > Hochfeder-07_work.csv
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/indexes/Hochfeder-07$ djview4poliqarp 
+QSocketNotifier: Can only be used with threads started with QThread
+
+(djview4poliqarp:363835): GVFS-RemoteVolumeMonitor-WARNING **: 07:24:03.573: remote volume monitor with dbus name org.gtk.vfs.GoaVolumeMonitor is not supported
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==363835==ERROR: AddressSanitizer: SEGV on unknown address 0x184500001b75 (pc 0x7f272a78fab0 bp 0x184500001831 sp 0x7ffedff68280 T0)
+==363835==The signal is caused by a READ memory access.
+    #0 0x7f272a78faaf  (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x18faaf)
+    #1 0x7f272a78fb3a  (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x18fb3a)
+    #2 0x7f272a79e93e  (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x19e93e)
+    #3 0x7f2731b2e2e4  (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x642e4)
+    #4 0x7f2731b2e1f8  (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x641f8)
+    #5 0x7f2731b2e1f8  (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x641f8)
+    #6 0x7f2731b2e593  (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x64593)
+    #7 0x7f272a79f556  (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x19f556)
+    #8 0x7f272a7a181d  (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x1a181d)
+    #9 0x7f272a7a18bc  (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x1a18bc)
+    #10 0x7f272a7a1951  (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x1a1951)
+    #11 0x7f272a4d1c92  (/lib/x86_64-linux-gnu/libgio-2.0.so.0+0xafc92)
+    #12 0x7f272a4d1cc8  (/lib/x86_64-linux-gnu/libgio-2.0.so.0+0xafcc8)
+    #13 0x7f2731b1e67e in g_main_context_dispatch (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x5467e)
+    #14 0x7f2731b1ea37  (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x54a37)
+    #15 0x7f2731b1eacb in g_main_context_iteration (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x54acb)
+    #16 0x7f2732b09835 in QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x309835)
+    #17 0x7f2732ab017a in QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2b017a)
+    #18 0x7f2732ab82d5 in QCoreApplication::exec() (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2b82d5)
+    #19 0x5569e78354df  (/usr/bin/djview4poliqarp+0x484df)
+    #20 0x7f27326461c9  (/lib/x86_64-linux-gnu/libc.so.6+0x271c9)
+    #21 0x7f2732646284 in __libc_start_main (/lib/x86_64-linux-gnu/libc.so.6+0x27284)
+    #22 0x5569e7835e79  (/usr/bin/djview4poliqarp+0x48e79)
+
+AddressSanitizer can not provide additional info.
+SUMMARY: AddressSanitizer: SEGV (/lib/x86_64-linux-gnu/libgtk-3.so.0+0x18faaf) 
+==363835==ABORTING
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/indexes/Hochfeder-07$ djview4poliqarp 
+QSocketNotifier: Can only be used with threads started with QThread
+
+(djview4poliqarp:363931): GVFS-RemoteVolumeMonitor-WARNING **: 07:29:43.468: remote volume monitor with dbus name org.gtk.vfs.GoaVolumeMonitor is not supported
+
+=================================================================
+==363931==ERROR: LeakSanitizer: detected memory leaks
+
+Direct leak of 16576 byte(s) in 3 object(s) allocated from:
+    #0 0x7f44d4707628 in malloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107628)
+    #1 0x7f44d1f24678 in g_malloc (/lib/x86_64-linux-gnu/libglib-2.0.so.0+0x5a678)
+
+Direct leak of 5120 byte(s) in 8 object(s) allocated from:
+    #0 0x7f44d4707a2e in __interceptor_realloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107a2e)
+    #1 0x7f44cfc964d8  (/lib/x86_64-linux-gnu/libfontconfig.so.1+0x234d8)
+
+Direct leak of 640 byte(s) in 8 object(s) allocated from:
+    #0 0x7f44d470780e in calloc (/lib/x86_64-linux-gnu/libasan.so.5+0x10780e)
+    #1 0x7f44d1bee5f3  (/lib/x86_64-linux-gnu/libwayland-client.so.0+0x65f3)
+
+Indirect leak of 15424 byte(s) in 482 object(s) allocated from:
+    #0 0x7f44d4707628 in malloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107628)
+    #1 0x7f44cfc809af  (/lib/x86_64-linux-gnu/libfontconfig.so.1+0xd9af)
+
+Indirect leak of 7287 byte(s) in 560 object(s) allocated from:
+    #0 0x7f44d46920b5 in strdup (/lib/x86_64-linux-gnu/libasan.so.5+0x920b5)
+    #1 0x7f44cfc95cd7 in FcValueSave (/lib/x86_64-linux-gnu/libfontconfig.so.1+0x22cd7)
+
+Indirect leak of 4864 byte(s) in 152 object(s) allocated from:
+    #0 0x7f44d470780e in calloc (/lib/x86_64-linux-gnu/libasan.so.5+0x10780e)
+    #1 0x7f44cfc96bfc  (/lib/x86_64-linux-gnu/libfontconfig.so.1+0x23bfc)
+
+Indirect leak of 3670 byte(s) in 40 object(s) allocated from:
+    #0 0x7f44d4707628 in malloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107628)
+    #1 0x7f44d2cd6e91 in QArrayData::allocate(unsigned long, unsigned long, unsigned long, QFlags<QArrayData::AllocationOption>) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0xd6e91)
+
+Indirect leak of 3328 byte(s) in 104 object(s) allocated from:
+    #0 0x7f44d470780e in calloc (/lib/x86_64-linux-gnu/libasan.so.5+0x10780e)
+    #1 0x7f44cfc9602a  (/lib/x86_64-linux-gnu/libfontconfig.so.1+0x2302a)
+
+Indirect leak of 2448 byte(s) in 9 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d3d5ce83 in QAction::QAction(QObject*) (/lib/x86_64-linux-gnu/libQt5Widgets.so.5+0x15ce83)
+
+Indirect leak of 1728 byte(s) in 10 object(s) allocated from:
+    #0 0x7f44d4707628 in malloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107628)
+    #1 0x7f44d2eda4d4 in QObjectPrivate::addConnection(int, QObjectPrivate::Connection*) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2da4d4)
+
+Indirect leak of 1408 byte(s) in 16 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d2edddb8  (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2dddb8)
+
+Indirect leak of 1264 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d3628ab7 in QFontDatabase::load(QFontPrivate const*, int) (/lib/x86_64-linux-gnu/libQt5Gui.so.5+0x228ab7)
+
+Indirect leak of 840 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d3ee418a in QMenu::QMenu(QWidget*) (/lib/x86_64-linux-gnu/libQt5Widgets.so.5+0x2e418a)
+
+Indirect leak of 768 byte(s) in 24 object(s) allocated from:
+    #0 0x7f44d470780e in calloc (/lib/x86_64-linux-gnu/libasan.so.5+0x10780e)
+    #1 0x7f44cfc95ee7  (/lib/x86_64-linux-gnu/libfontconfig.so.1+0x22ee7)
+
+Indirect leak of 400 byte(s) in 10 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d2eda307 in QObjectPrivate::addConnection(int, QObjectPrivate::Connection*) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2da307)
+
+Indirect leak of 384 byte(s) in 2 object(s) allocated from:
+    #0 0x7f44d4707a2e in __interceptor_realloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107a2e)
+    #1 0x7f44d2d09612 in QListData::realloc_grow(int) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x109612)
+
+Indirect leak of 288 byte(s) in 9 object(s) allocated from:
+    #0 0x7f44d4707628 in malloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107628)
+    #1 0x7f44d2d094bf in QListData::detach_grow(int*, int) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x1094bf)
+
+Indirect leak of 192 byte(s) in 4 object(s) allocated from:
+    #0 0x7f44d4707628 in malloc (/lib/x86_64-linux-gnu/libasan.so.5+0x107628)
+    #1 0x7f44cfc8f6db in FcLangSetCopy (/lib/x86_64-linux-gnu/libfontconfig.so.1+0x1c6db)
+
+Indirect leak of 128 byte(s) in 8 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x55d2796c7639  (/usr/bin/djview4poliqarp+0x4b639)
+    #2 0x55d2796d924b  (/usr/bin/djview4poliqarp+0x5d24b)
+    #3 0x55d2796c44d2  (/usr/bin/djview4poliqarp+0x484d2)
+    #4 0x7f44d2a461c9  (/lib/x86_64-linux-gnu/libc.so.6+0x271c9)
+
+Indirect leak of 112 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d2ed67b2 in QMimeData::QMimeData() (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2d67b2)
+
+Indirect leak of 112 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44cbf4c7d3 in QtWaylandClient::QWaylandDataDeviceManager::getDataDevice(QtWaylandClient::QWaylandInputDevice*) (/lib/x86_64-linux-gnu/libQt5WaylandClient.so.5+0x977d3)
+
+Indirect leak of 96 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d35f9cb5 in QFont::QFont(QString const&, int, int, bool) (/lib/x86_64-linux-gnu/libQt5Gui.so.5+0x1f9cb5)
+
+Indirect leak of 88 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d2ede82a in QObjectPrivate::connectImpl(QObject const*, int, QObject const*, void**, QtPrivate::QSlotObjectBase*, Qt::ConnectionType, int const*, QMetaObject const*) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2de82a)
+
+Indirect leak of 88 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d2ee76b3 in QObject::QObject(QObject*) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x2e76b3)
+
+Indirect leak of 80 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470780e in calloc (/lib/x86_64-linux-gnu/libasan.so.5+0x10780e)
+    #1 0x7f44d1bee5f3  (/lib/x86_64-linux-gnu/libwayland-client.so.0+0x65f3)
+
+Indirect leak of 80 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470780e in calloc (/lib/x86_64-linux-gnu/libasan.so.5+0x10780e)
+    #1 0x7f44d1beffc4 in wl_display_read_events (/lib/x86_64-linux-gnu/libwayland-client.so.0+0x7fc4)
+
+Indirect leak of 48 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x55d2796c7412  (/usr/bin/djview4poliqarp+0x4b412)
+    #2 0x55d2796d924b  (/usr/bin/djview4poliqarp+0x5d24b)
+    #3 0x55d2796c44d2  (/usr/bin/djview4poliqarp+0x484d2)
+    #4 0x7f44d2a461c9  (/lib/x86_64-linux-gnu/libc.so.6+0x271c9)
+
+Indirect leak of 48 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44cbf4bd15  (/lib/x86_64-linux-gnu/libQt5WaylandClient.so.5+0x96d15)
+
+Indirect leak of 40 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44cbf4cdf7 in QtWaylandClient::QWaylandDataOffer::QWaylandDataOffer(QtWaylandClient::QWaylandDisplay*, wl_data_offer*) (/lib/x86_64-linux-gnu/libQt5WaylandClient.so.5+0x97df7)
+
+Indirect leak of 24 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d3ee2ab2  (/lib/x86_64-linux-gnu/libQt5Widgets.so.5+0x2e2ab2)
+
+Indirect leak of 16 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d2d0f0d0 in QtSharedPointer::ExternalRefCountData::getAndRef(QObject const*) (/lib/x86_64-linux-gnu/libQt5Core.so.5+0x10f0d0)
+
+Indirect leak of 16 byte(s) in 1 object(s) allocated from:
+    #0 0x7f44d470919f in operator new(unsigned long) (/lib/x86_64-linux-gnu/libasan.so.5+0x10919f)
+    #1 0x7f44d3ee2a1e  (/lib/x86_64-linux-gnu/libQt5Widgets.so.5+0x2e2a1e)
+
+SUMMARY: AddressSanitizer: 67605 byte(s) leaked in 1464 allocation(s).
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/indexes/Hochfeder-07$ git add -f *
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/indexes/Hochfeder-07$ git commit -m "Hochfeder-07 indexes"
+[main b90698d] Hochfeder-07 indexes
+ 162 files changed, 561 insertions(+)
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/actions.log
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00000.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00001.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00002.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00003.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00004.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00005.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00006.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00007.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00008.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00009.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00010.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00011.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00012.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00013.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00014.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00015.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00016.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00017.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00018.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00019.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00020.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00021.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00022.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00023.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00024.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00025.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00026.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00027.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00028.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00029.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00030.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00031.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00032.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00033.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00034.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00035.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00036.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00037.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00038.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00039.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00040.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00041.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00042.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00043.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00044.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00045.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00046.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00047.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00048.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00049.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00050.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00051.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00052.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00053.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00054.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00055.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00056.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00057.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00058.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00059.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00060.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00061.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00062.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00063.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00064.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00065.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00066.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00067.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00068.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00069.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00070.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00071.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00072.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00073.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00074.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00075.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00076.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00077.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00078.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00079.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00080.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00081.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00082.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00083.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00084.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00085.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00086.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00087.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00088.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00089.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00090.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00091.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00092.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00093.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00094.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00095.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00096.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00097.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00098.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00099.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00100.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00101.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00102.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00103.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00104.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00105.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00106.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00107.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00108.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00109.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00110.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00111.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00112.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00113.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00114.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00115.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00116.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00117.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00118.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00119.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00120.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00121.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00122.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00123.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00124.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00125.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00126.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00127.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00128.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00129.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00130.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00131.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00132.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00133.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00134.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00135.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00136.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00137.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00138.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00139.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00140.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00141.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00142.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00143.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00144.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00145.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00146.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00147.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00148.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00149.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00150.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00151.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/lib_00152.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/page.bmp
+ create mode 100644 font_tables/indexes/Hochfeder-07/0_Hochfeder-07_PT01_024.djvu/stats.log
+ create mode 100644 font_tables/indexes/Hochfeder-07/Hochfeder-07.csv
+ create mode 100644 font_tables/indexes/Hochfeder-07/Hochfeder-07_br.csv
+ create mode 100644 font_tables/indexes/Hochfeder-07/Hochfeder-07_tmp.csv
+ create mode 100644 font_tables/indexes/Hochfeder-07/Hochfeder-07_work.csv
+ create mode 100644 font_tables/indexes/Hochfeder-07/Hochfeder-07_workbr.csv
+ create mode 100644 font_tables/indexes/Hochfeder-07/stats.log
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/indexes/Hochfeder-07$ git push
+Enumerating objects: 167, done.
+Counting objects: 100% (167/167), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (164/164), done.
+Writing objects: 100% (164/164), 59.72 KiB | 2.84 MiB/s, done.
+Total 164 (delta 8), reused 1 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (8/8), completed with 3 local objects.        
+To https://github.com/jsbien/early_fonts_inventory.git
+   e473f90..b90698d  main -> main
+jsbien@JSBbookworm:~/git/early_fonts_inventory/font_tables/indexes/Hochfeder-07$ 
