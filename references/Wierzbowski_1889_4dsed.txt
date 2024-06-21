@@ -11,7 +11,7 @@ Title "Bibliographia Polonica XV ac XVII ss. quae in bibliotheca Universitatis C
 Addres "Varsoviae"
 Year "1889"
 Source "The National Library of Poland 859.880 A"
-URL "https://kpbc.umk.pl/dlibra/publication/258579"
+URL "http://polona.pl/item-view/d3e1faa9-9f3f-4341-a379-d3d65b9001fb/0/1ed10fa2-4e9b-4b6b-9cb9-c0b76ffa7cef"
 URL1 "https://github.com/jsbien/early_fonts_inventory/"
 Note "OCR: Abby Recognition Server"
 Note1 " Converted from PDF to DjVu  with didjvu by Janusz S. Bień"
