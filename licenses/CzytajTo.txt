@@ -1,0 +1,6 @@
+Z niejasnych powodów dokument PDF nie otwiera się w przeglądarce,
+trzeba go pobrać (opcja "Download Raw File").
+
+Por.https://github.com/orgs/community/discussions/64419
+
+
