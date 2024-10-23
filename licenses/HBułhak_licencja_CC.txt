@@ -1,0 +1,3 @@
+The original of the license is stored in the library of the University
+of Warsaw (https://www.buw.uw.edu.pl/) in the division of electronic
+resources development (Oddział Rozwoju Zasobów Elektronicznych).
