@@ -1,0 +1,21 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Wirzbięta-02u_PT11_570.djvu -f Wirzbięta-02u_PT11_570_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Paulina Buchwald-Pelcowa"
+Title "Maciej i Paweł Wirzbiętowie 1555/7-1609. Tabele 521-570."
+Editor "Alodia Kawecka Gryczowa"
+Series "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Fascicule "XI"
+Publisher "Zakład Narodowy imienia Ossolińskich — Wydawnictwo"
+Addres "Kraków  Wrocław Warszawa"
+Year "1981"
+Note "2. Uzupełnienie. [570]"
+Note1 "Character set table prepared by Alodia Kawecka Gryczowa and Anna Wolińska"
+Note2 "Photo (taken at  Warsaw Public Library - Central Library of the Masovian Voivodeship) converted to DjVu with didjvu by Janusz S. Bień
+URL "https://github.com/jsbien/early_fonts_inventory/"
+.
