@@ -1,0 +1,24 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused PT_12.djvu -f PT_12_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "Henryk Bułhak"
+Title "Maciej Szarfenberg : Kraków 1527-1547"
+# Plates "571-600"
+Editor "Alodia Kawecka Gryczowa"
+Series "Polonia Typographica Saeculi Sedecimi: zbiór podobizn zasobu drukarskiego tłoczni polskich XVI stulecia"
+Fascicule "XII"
+Publisher "Zakład Narodowy imienia Ossolińskich — Wydawnictwo Polskiej Akademii Nauk"
+Addres "Wrocław — Warszawa — Kraków — Gdańsk"
+Year "1981"
+Source "BUW 69267 [12], Gabinet Rycin"
+OCR "ABBYY FineReader PDF 15"
+License "Creative Commons BY 4.0"
+URL "https://crispa.uw.edu.pl/object/files/754258/display/Default"
+Note "PDF (218 Mb) converted to DjVu (9.6 Mb) with pdf2djvu and metadata added  by Janusz S. Bień"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+.
