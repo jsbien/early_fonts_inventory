@@ -2,6 +2,8 @@
 # djvu2mask
 # Janusz S. Bień and ChatGPT 2024
 
+# Phased out by masks.py
+
 import os
 import subprocess
 import sys
