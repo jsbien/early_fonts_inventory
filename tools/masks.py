@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# mask.py
+# masks.py
 # Janusz S. Bień and ChatGPT/AskTheCode 2025
 
 import os
