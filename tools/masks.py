@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# mask.py
+# Janusz S. Bień and ChatGPT/AskTheCode 2025
+
 import os
 import csv
 import subprocess
