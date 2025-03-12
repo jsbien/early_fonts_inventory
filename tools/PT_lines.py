@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# PT_lines.py
+# Janusz S. Bień and ChatGPT/AskTheCode 2025
+
 import os
 import sys
 import cv2
