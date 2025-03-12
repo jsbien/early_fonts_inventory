@@ -1,0 +1,178 @@
+jsbien@JSBbookworm:~/git/tmp/masks-edited$ bash masks_deskew.sh 
+2025-01-19T14:22:43+00:00 0:00.186 0.460u 6.9.11 Transform convert-im6.q16[1677918]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.587485
+2025-01-19T14:22:44+00:00 0:00.031 0.120u 6.9.11 Transform convert-im6.q16[1677961]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.279762
+2025-01-19T14:22:44+00:00 0:00.029 0.080u 6.9.11 Transform convert-im6.q16[1677968]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.503563
+2025-01-19T14:22:44+00:00 0:00.172 0.600u 6.9.11 Transform convert-im6.q16[1677974]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.139882
+2025-01-19T14:22:45+00:00 0:00.015 0.020u 6.9.11 Transform convert-im6.q16[1678018]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:45+00:00 0:00.066 0.280u 6.9.11 Transform convert-im6.q16[1678024]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:45+00:00 0:00.208 0.650u 6.9.11 Transform convert-im6.q16[1678066]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.601472
+2025-01-19T14:22:46+00:00 0:00.157 0.430u 6.9.11 Transform convert-im6.q16[1678107]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.363689
+2025-01-19T14:22:47+00:00 0:00.102 0.270u 6.9.11 Transform convert-im6.q16[1678150]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:47+00:00 0:00.107 0.280u 6.9.11 Transform convert-im6.q16[1678178]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.195834
+2025-01-19T14:22:48+00:00 0:00.103 0.270u 6.9.11 Transform convert-im6.q16[1678207]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.181846
+2025-01-19T14:22:48+00:00 0:00.051 0.120u 6.9.11 Transform convert-im6.q16[1678233]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.531537
+2025-01-19T14:22:48+00:00 0:00.088 0.230u 6.9.11 Transform convert-im6.q16[1678245]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.0139882
+2025-01-19T14:22:49+00:00 0:00.008 0.010u 6.9.11 Transform convert-im6.q16[1678254]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:49+00:00 0:00.125 0.350u 6.9.11 Transform convert-im6.q16[1678256]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.363689
+2025-01-19T14:22:50+00:00 0:00.235 0.640u 6.9.11 Transform convert-im6.q16[1678292]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.139882
+2025-01-19T14:22:51+00:00 0:00.362 0.720u 6.9.11 Transform convert-im6.q16[1678334]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:52+00:00 0:00.091 0.230u 6.9.11 Transform convert-im6.q16[1678375]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.475589
+2025-01-19T14:22:53+00:00 0:00.246 0.550u 6.9.11 Transform convert-im6.q16[1678403]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:54+00:00 0:00.201 0.690u 6.9.11 Transform convert-im6.q16[1678462]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:54+00:00 0:00.117 0.310u 6.9.11 Transform convert-im6.q16[1678506]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.125894
+2025-01-19T14:22:55+00:00 0:00.120 0.340u 6.9.11 Transform convert-im6.q16[1678538]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.0979175
+2025-01-19T14:22:56+00:00 0:00.106 0.280u 6.9.11 Transform convert-im6.q16[1678575]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:56+00:00 0:00.040 0.150u 6.9.11 Transform convert-im6.q16[1678601]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:56+00:00 0:00.051 0.140u 6.9.11 Transform convert-im6.q16[1678611]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.307738
+2025-01-19T14:22:56+00:00 0:00.074 0.280u 6.9.11 Transform convert-im6.q16[1678620]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.419639
+2025-01-19T14:22:57+00:00 0:00.052 0.200u 6.9.11 Transform convert-im6.q16[1678660]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.475589
+2025-01-19T14:22:57+00:00 0:00.046 0.180u 6.9.11 Transform convert-im6.q16[1678673]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.223811
+2025-01-19T14:22:57+00:00 0:00.037 0.100u 6.9.11 Transform convert-im6.q16[1678686]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.251786
+2025-01-19T14:22:58+00:00 0:00.061 0.250u 6.9.11 Transform convert-im6.q16[1678691]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.727349
+2025-01-19T14:22:58+00:00 0:00.163 0.480u 6.9.11 Transform convert-im6.q16[1678726]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:59+00:00 0:00.047 0.190u 6.9.11 Transform convert-im6.q16[1678770]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:22:59+00:00 0:00.182 0.510u 6.9.11 Transform convert-im6.q16[1678783]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.657418
+2025-01-19T14:23:00+00:00 0:00.123 0.340u 6.9.11 Transform convert-im6.q16[1678880]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.223811
+2025-01-19T14:23:00+00:00 0:00.052 0.210u 6.9.11 Transform convert-im6.q16[1678916]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.615458
+2025-01-19T14:23:01+00:00 0:00.117 0.320u 6.9.11 Transform convert-im6.q16[1678946]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.573498
+2025-01-19T14:23:01+00:00 0:00.078 0.200u 6.9.11 Transform convert-im6.q16[1678980]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.699377
+2025-01-19T14:23:02+00:00 0:00.128 0.360u 6.9.11 Transform convert-im6.q16[1678990]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 1.55231
+2025-01-19T14:23:02+00:00 0:00.197 0.620u 6.9.11 Transform convert-im6.q16[1679029]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.643431
+2025-01-19T14:23:03+00:00 0:00.160 0.410u 6.9.11 Transform convert-im6.q16[1679073]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.0279765
+2025-01-19T14:23:04+00:00 0:00.061 0.250u 6.9.11 Transform convert-im6.q16[1679115]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.223811
+2025-01-19T14:23:04+00:00 0:00.038 0.130u 6.9.11 Transform convert-im6.q16[1679153]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:23:04+00:00 0:00.058 0.240u 6.9.11 Transform convert-im6.q16[1679162]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.503563
+2025-01-19T14:23:05+00:00 0:00.093 0.190u 6.9.11 Transform convert-im6.q16[1679197]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.713363
+2025-01-19T14:23:05+00:00 0:00.040 0.120u 6.9.11 Transform convert-im6.q16[1679208]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.251786
+2025-01-19T14:23:05+00:00 0:00.093 0.240u 6.9.11 Transform convert-im6.q16[1679215]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.223811
+2025-01-19T14:23:06+00:00 0:00.100 0.280u 6.9.11 Transform convert-im6.q16[1679224]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.51755
+2025-01-19T14:23:06+00:00 0:00.049 0.190u 6.9.11 Transform convert-im6.q16[1679250]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.391664
+2025-01-19T14:23:07+00:00 0:00.046 0.160u 6.9.11 Transform convert-im6.q16[1679263]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.531537
+2025-01-19T14:23:07+00:00 0:00.064 0.270u 6.9.11 Transform convert-im6.q16[1679279]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.223811
+2025-01-19T14:23:07+00:00 0:00.169 0.510u 6.9.11 Transform convert-im6.q16[1679319]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.0139882
+2025-01-19T14:23:08+00:00 0:00.052 0.190u 6.9.11 Transform convert-im6.q16[1679363]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.195834
+2025-01-19T14:23:08+00:00 0:00.053 0.210u 6.9.11 Transform convert-im6.q16[1679376]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.307738
+2025-01-19T14:23:09+00:00 0:00.052 0.190u 6.9.11 Transform convert-im6.q16[1679408]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.587485
+2025-01-19T14:23:09+00:00 0:00.034 0.120u 6.9.11 Transform convert-im6.q16[1679436]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.279762
+2025-01-19T14:23:09+00:00 0:00.046 0.190u 6.9.11 Transform convert-im6.q16[1679444]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.363689
+2025-01-19T14:23:09+00:00 0:00.087 0.230u 6.9.11 Transform convert-im6.q16[1679457]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.475589
+2025-01-19T14:23:10+00:00 0:00.046 0.160u 6.9.11 Transform convert-im6.q16[1679466]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.839234
+2025-01-19T14:23:10+00:00 0:00.009 0.010u 6.9.11 Transform convert-im6.q16[1679477]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.391664
+2025-01-19T14:23:10+00:00 0:00.071 0.170u 6.9.11 Transform convert-im6.q16[1679481]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.419639
+2025-01-19T14:23:11+00:00 0:00.100 0.250u 6.9.11 Transform convert-im6.q16[1679494]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.363689
+2025-01-19T14:23:11+00:00 0:00.037 0.130u 6.9.11 Transform convert-im6.q16[1679503]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.0559529
+2025-01-19T14:23:11+00:00 0:00.055 0.230u 6.9.11 Transform convert-im6.q16[1679513]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.195834
+2025-01-19T14:23:12+00:00 0:00.060 0.250u 6.9.11 Transform convert-im6.q16[1679543]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.195834
+2025-01-19T14:23:12+00:00 0:00.212 0.630u 6.9.11 Transform convert-im6.q16[1679578]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:23:13+00:00 0:00.041 0.160u 6.9.11 Transform convert-im6.q16[1679622]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:23:13+00:00 0:00.131 0.350u 6.9.11 Transform convert-im6.q16[1679632]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.167858
+2025-01-19T14:23:14+00:00 0:00.051 0.190u 6.9.11 Transform convert-im6.q16[1679666]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.139882
+2025-01-19T14:23:14+00:00 0:00.041 0.150u 6.9.11 Transform convert-im6.q16[1679679]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0
+2025-01-19T14:23:14+00:00 0:00.055 0.220u 6.9.11 Transform convert-im6.q16[1679689]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.279762
+2025-01-19T14:23:15+00:00 0:00.194 0.820u 6.9.11 Transform convert-im6.q16[1679719]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.895174
+2025-01-19T14:23:15+00:00 0:00.014 0.040u 6.9.11 Transform convert-im6.q16[1679763]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 3.74351
+2025-01-19T14:23:15+00:00 0:00.095 0.250u 6.9.11 Transform convert-im6.q16[1679772]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 1.56629
+2025-01-19T14:23:16+00:00 0:00.021 0.050u 6.9.11 Transform convert-im6.q16[1679801]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.867204
+2025-01-19T14:23:16+00:00 0:00.053 0.210u 6.9.11 Transform convert-im6.q16[1679806]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 1.70606
+2025-01-19T14:23:16+00:00 0:00.002 0.000u 6.9.11 Transform convert-im6.q16[1679834]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 3.35334
+2025-01-19T14:23:16+00:00 0:00.002 0.000u 6.9.11 Transform convert-im6.q16[1679836]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 2.46041
+2025-01-19T14:23:16+00:00 0:00.039 0.140u 6.9.11 Transform convert-im6.q16[1679839]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 1.6222
+2025-01-19T14:23:17+00:00 0:00.004 0.000u 6.9.11 Transform convert-im6.q16[1679848]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 5.13388
+2025-01-19T14:23:17+00:00 0:00.028 0.070u 6.9.11 Transform convert-im6.q16[1679851]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 1.65015
+2025-01-19T14:23:17+00:00 0:00.003 0.000u 6.9.11 Transform convert-im6.q16[1679856]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.559511
+2025-01-19T14:23:17+00:00 0:00.050 0.210u 6.9.11 Transform convert-im6.q16[1679857]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.475589
+2025-01-19T14:23:17+00:00 0:00.050 0.190u 6.9.11 Transform convert-im6.q16[1679887]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.363689
+2025-01-19T14:23:18+00:00 0:00.093 0.240u 6.9.11 Transform convert-im6.q16[1679900]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.741335
+2025-01-19T14:23:18+00:00 0:00.211 0.520u 6.9.11 Transform convert-im6.q16[1679909]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.573498
+2025-01-19T14:23:19+00:00 0:00.035 0.150u 6.9.11 Transform convert-im6.q16[1679949]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.811263
+2025-01-19T14:23:19+00:00 0:00.049 0.200u 6.9.11 Transform convert-im6.q16[1679959]: shear.c/DeskewImage/626/Transform
+    Deskew angle: 0.111906
+2025-01-19T14:23:20+00:00 0:00.063 0.280u 6.9.11 Transform convert-im6.q16[1679972]: shear.c/DeskewImage/626/Transform
+    Deskew angle: -0.335714
+jsbien@JSBbookworm:~/git/tmp/masks-edited$ 
