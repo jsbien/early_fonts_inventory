@@ -1,0 +1,20 @@
+# Edit it and store it with command:
+#   $ djvused foo.djvu -f thisfile -s
+# djvused Opusculum1504BN.djvu -f Opusculum1504BN_4dsed.txt -s
+# The following line is the djvused command
+# to set the metadana and the rest is the metadata
+# (note the point in the last line)
+select
+set-meta
+Author "[Jan Vitreatoris z Trzemeśni]"
+Title	"Opusculum de arte memoratiua longe vtilissimvm"
+Publisher "[Kasper Hochfeder]"
+Addres "Kraków"
+Year "1504"
+Source "Biblioteka Narodowa SD XVI.Qu.270"
+URL "https://polona.pl/preview/6eca5dc9-978c-4752-9806-b477d60b8de3"
+URL1 "https://github.com/jsbien/early_fonts_inventory/"
+Note "Pisma 7 9. - Rubryka epsilon. Cyfry 1. [PT01 p. 28]"
+Note2 "15. IOAIOANNES DE DOBCZYCE: Opusculum de arte memorativa. 4⁰. K. 20. War. A i B. Estr. XV 253. Wierzb. 831. [PT01 p. 28]"
+Note3	"DjVu created (with covers and blank pages removed) with didjvu by Janusz S. Bień"
+.
